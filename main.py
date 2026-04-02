@@ -1,1 +1,1 @@
-print('Hello Data Science - Version 2')
+print('This is a risky AI experiment')
